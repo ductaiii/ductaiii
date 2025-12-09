@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nguyen Duc Tai
+# Hi 🙋‍♂️, I'm TaiNguyen
 
 ### Full Stack Developer | Backend Enthusiast | Salesforce Learner
 
