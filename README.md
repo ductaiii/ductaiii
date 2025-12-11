@@ -1,4 +1,4 @@
-# Hi 🙋‍♂️, I'm TaiNguyen
+# Hi 🙋‍♂️, I'm tainguyen
 
 ### Full Stack Developer | Backend Enthusiast | Salesforce Learner
 
