@@ -30,27 +30,6 @@ My current focus is on modern React applications, Node.js backends, browser exte
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" alt="Tools" />
 </p>
 
-## Featured Projects
-
-### ReadWebsite
-
-A Chrome extension that reads web pages and selected text aloud, built for long-form reading and Vietnamese story websites.
-
-- Chrome Extension Manifest V3
-- React-style extension architecture with content scripts and side panel UI
-- Browser TTS first, with optional cloud TTS upgrade path
-
-### Voice Agent Vn-Jp
-
-A realtime Vietnamese-Japanese voice translation app with an interactive D-ID avatar.
-
-- React + Vite frontend
-- Express backend
-- Google Speech-to-Text and Text-to-Speech
-- DeepL translation
-- D-ID avatar integration
-- Docker-ready local deployment
-
 ## What I'm Working On
 
 ```text
@@ -60,15 +39,6 @@ AI Products    STT, TTS, translation, voice agents
 Platform       Docker, GitHub, deployment workflows
 Learning       Salesforce, better system design, testing
 ```
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ductaiii&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductaiii&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-
-</div>
 
 ## Contact
 
